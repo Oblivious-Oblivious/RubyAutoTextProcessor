@@ -104,7 +104,7 @@ class RuleSetCreator
             produce_type_of_rule(l, current_rule);
 
             # TODO Move outside boundaries
-            puts "RuleSetCreator #{current_rule}";
+            puts "[RuleSetCreator] #{current_rule}";
         end
     end
 end
